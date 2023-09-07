@@ -1,1 +1,2 @@
-A remote repository is a repository that is connected to a server and can be accessed remotely, instead of only being able to be accessed from the local machine.
+Merging preserves history, while rebasing rewrites it.
+
