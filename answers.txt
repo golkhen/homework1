@@ -1,1 +1,1 @@
-A remote repository is a repository that is connected to a server and can be accessed remotely, instead of only being able to be accessed from the local machine.
+A remote repository is a repository that's connected to a server and can be accessed remotely, instead of only being able to be accessed from the local machine.
